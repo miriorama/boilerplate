@@ -1,0 +1,8 @@
+class Util{
+}
+
+class Boilerplate {
+    static init(){
+    }
+}
+Boilerplate.init();
